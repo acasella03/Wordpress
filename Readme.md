@@ -65,3 +65,5 @@ Aquí se definen los volúmenes db_data y wp_data que fueron utilizados en los s
 *Recuerda que para entrar a Wordpress como administrador debes colocar en el buscador web:<br>
 http://localhost:80/wp-admin*
 
+## Ejemplo:
+![captura](./Imagen/captura.png)
